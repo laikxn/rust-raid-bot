@@ -1,0 +1,4 @@
+# Ignore credentials and Python cache
+serviceAccountKey.json
+__pycache__/
+*.pyc
